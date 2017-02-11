@@ -1,0 +1,6 @@
+framework module Pods_OnboardingLottie {
+  umbrella header "Pods-OnboardingLottie-umbrella.h"
+
+  export *
+  module * { export * }
+}
