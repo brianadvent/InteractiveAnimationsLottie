@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5261D6B11E4F9C16009A4983 /* tutorial.json in Resources */ = {isa = PBXBuildFile; fileRef = 5261D6B01E4F9C16009A4983 /* tutorial.json */; };
+		5261D6B31E4FB39C009A4983 /* Walkthrough.aep in Resources */ = {isa = PBXBuildFile; fileRef = 5261D6B21E4FB39C009A4983 /* Walkthrough.aep */; };
 		52A424A41E4F98A0009A49D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A424A31E4F98A0009A49D4 /* AppDelegate.swift */; };
 		52A424A61E4F98A0009A49D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A424A51E4F98A0009A49D4 /* ViewController.swift */; };
 		52A424A91E4F98A0009A49D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52A424A71E4F98A0009A49D4 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		5261D6B01E4F9C16009A4983 /* tutorial.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tutorial.json; sourceTree = "<group>"; };
+		5261D6B21E4FB39C009A4983 /* Walkthrough.aep */ = {isa = PBXFileReference; lastKnownFileType = file; path = Walkthrough.aep; sourceTree = "<group>"; };
 		52A424A01E4F98A0009A49D4 /* OnboardingLottie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnboardingLottie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52A424A31E4F98A0009A49D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52A424A51E4F98A0009A49D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 		52A424A21E4F98A0009A49D4 /* OnboardingLottie */ = {
 			isa = PBXGroup;
 			children = (
+				5261D6B21E4FB39C009A4983 /* Walkthrough.aep */,
 				5261D6B01E4F9C16009A4983 /* tutorial.json */,
 				52A424A31E4F98A0009A49D4 /* AppDelegate.swift */,
 				52A424A51E4F98A0009A49D4 /* ViewController.swift */,
@@ -153,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5261D6B31E4FB39C009A4983 /* Walkthrough.aep in Resources */,
 				52A424AE1E4F98A0009A49D4 /* LaunchScreen.storyboard in Resources */,
 				5261D6B11E4F9C16009A4983 /* tutorial.json in Resources */,
 				52A424AB1E4F98A0009A49D4 /* Assets.xcassets in Resources */,
